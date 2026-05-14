@@ -24,6 +24,22 @@
     "file": "files/Killertune.mp3"
   },
   {
+    "name": "King Gnu - \u767d\u65e5(MP3_160K)",
+    "file": "files/King Gnu - \u767d\u65e5(MP3_160K).mp3"
+  },
+  {
+    "name": "King Gnu - \u767d\u65e5",
+    "file": "files/King Gnu - \u767d\u65e5.mp3"
+  },
+  {
+    "name": "Lemon(MP3_160K)",
+    "file": "files/Lemon(MP3_160K).mp3"
+  },
+  {
+    "name": "Lemon",
+    "file": "files/Lemon.mp3"
+  },
+  {
     "name": "My Abyss _ \u5e38\u95c7\u30c8\u30ef (official)(MP3_160K)",
     "file": "files/My Abyss _ \u5e38\u95c7\u30c8\u30ef (official)(MP3_160K).mp3"
   },
@@ -32,12 +48,32 @@
     "file": "files/Otonablue_marine.mp3"
   },
   {
+    "name": "Red Swan_YOSHIKI feat. HYDE",
+    "file": "files/Red Swan_YOSHIKI feat. HYDE.mp3"
+  },
+  {
     "name": "SPECIALZ covered by \u97f3\u30ce\u4e43\u306e\u306e(MP3_320K)",
     "file": "files/SPECIALZ covered by \u97f3\u30ce\u4e43\u306e\u306e(MP3_320K).mp3"
   },
   {
+    "name": "Sayonara_ Mata Itsuka_ - Sayonara(MP3_160K)",
+    "file": "files/Sayonara_ Mata Itsuka_ - Sayonara(MP3_160K).mp3"
+  },
+  {
+    "name": "Sayonara_ Mata Itsuka_ - Sayonara",
+    "file": "files/Sayonara_ Mata Itsuka_ - Sayonara.mp3"
+  },
+  {
+    "name": "The Nights - Avicii",
+    "file": "files/The Nights - Avicii.mp3"
+  },
+  {
     "name": "Zombie V4",
     "file": "files/Zombie V4.mp3"
+  },
+  {
+    "name": "_Red Swan_ (Attack on Titan anime theme) - \u9032\u6483\u306e\u5de8\u4eba Official Lyric Video YOSHIKI feat. HYDE(MP3_160K)",
+    "file": "files/_Red Swan_ (Attack on Titan anime theme) - \u9032\u6483\u306e\u5de8\u4eba Official Lyric Video YOSHIKI feat. HYDE(MP3_160K).mp3"
   },
   {
     "name": "little_goodbye_azki",
@@ -86,6 +122,14 @@
   {
     "name": "\u5fc3\u81d3\u3092\u6367\u3052\u3088_\uff08Shinzou wo Sasageyo_ \uff09 - Linked Horizon __ covered by \u51ea\u539f\u6dbc\u83dc(MP3_320K)",
     "file": "files/\u5fc3\u81d3\u3092\u6367\u3052\u3088_\uff08Shinzou wo Sasageyo_ \uff09 - Linked Horizon __ covered by \u51ea\u539f\u6dbc\u83dc(MP3_320K).mp3"
+  },
+  {
+    "name": "\u602a\u7269(MP3_160K)",
+    "file": "files/\u602a\u7269(MP3_160K).mp3"
+  },
+  {
+    "name": "\u602a\u7269",
+    "file": "files/\u602a\u7269.mp3"
   },
   {
     "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc (A Cruel Angel_s Thesis) - \u9ad8\u6a4b\u6d0b\u5b50 __ covered by \u51ea\u539f\u6dbc\u83dc(MP3_320K)",
